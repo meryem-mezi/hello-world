@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+hi everybody
+I am mimi , and printf("I like programming");
